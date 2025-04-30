@@ -4,7 +4,7 @@
 We provide the the sample reconstruction results of COLMAP on the KITTI-360 dataset.  
 Without any additional preprocessing or parameter tuning, COLMAP failed to produce valid reconstructions on 3 out of the 5 scenes (Seq 1, Seq 2, and Seq 5).
 
-The pipeline of using colmap is illustrated as following:
+The pipeline of using COLMAP is illustrated as following:
 
 ![Pipeline](Fig/Pipeline.png)
 ---
