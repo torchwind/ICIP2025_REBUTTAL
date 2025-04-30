@@ -1,7 +1,7 @@
 # ICIP2025_rebuttal
 
 
-We provide the reconstruction results of COLMAP on the KITTI-360 dataset.  
+We provide the the sample input images and reconstruction results of COLMAP on the KITTI-360 dataset.  
 Without any additional preprocessing or parameter tuning, COLMAP failed to produce valid reconstructions on 3 out of the 5 scenes (Seq 1, Seq 2, and Seq 5).
 
 The pipeline of using colmap is illustrated as following:
